@@ -1,7 +1,7 @@
 package page
 
 import (
-	"github.com/hylodoc/hylodoc/internal/theme"
+	"github.com/hyloblog/hyloblog-ssg/internal/theme"
 )
 
 // An authoring represents all the information regarding the author(s) of a page

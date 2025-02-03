@@ -15,17 +15,17 @@ import (
 
 	"github.com/go-git/go-git/v5"
 	"github.com/gorilla/mux"
-	"github.com/hylodoc/hylodoc/internal/assert"
-	"github.com/hylodoc/hylodoc/internal/ast/area/areainfo"
-	"github.com/hylodoc/hylodoc/internal/ast/area/readdir"
-	"github.com/hylodoc/hylodoc/internal/ast/area/sitefile"
-	"github.com/hylodoc/hylodoc/internal/ast/page"
-	"github.com/hylodoc/hylodoc/internal/theme"
+	"github.com/hyloblog/hyloblog-ssg/internal/assert"
+	"github.com/hyloblog/hyloblog-ssg/internal/ast/area/areainfo"
+	"github.com/hyloblog/hyloblog-ssg/internal/ast/area/readdir"
+	"github.com/hyloblog/hyloblog-ssg/internal/ast/area/sitefile"
+	"github.com/hyloblog/hyloblog-ssg/internal/ast/page"
+	"github.com/hyloblog/hyloblog-ssg/internal/theme"
 )
 
 const (
 	indexFile  = "index.md"
-	ignoreFile = ".hylodocignore"
+	ignoreFile = ".hyloblogignore"
 )
 
 type Area struct {

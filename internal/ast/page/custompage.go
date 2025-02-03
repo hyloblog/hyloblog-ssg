@@ -5,8 +5,8 @@ import (
 	"io"
 	"path/filepath"
 
-	"github.com/hylodoc/hylodoc/internal/assert"
-	"github.com/hylodoc/hylodoc/internal/ast/area/sitefile"
+	"github.com/hyloblog/hyloblog-ssg/internal/assert"
+	"github.com/hyloblog/hyloblog-ssg/internal/ast/area/sitefile"
 )
 
 type custompage struct {

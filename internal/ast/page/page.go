@@ -3,8 +3,8 @@ package page
 import (
 	"io"
 
-	"github.com/hylodoc/hylodoc/internal/ast/area/sitefile"
-	"github.com/hylodoc/hylodoc/internal/theme"
+	"github.com/hyloblog/hyloblog-ssg/internal/ast/area/sitefile"
+	"github.com/hyloblog/hyloblog-ssg/internal/theme"
 )
 
 type Page interface {

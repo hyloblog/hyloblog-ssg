@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/hylodoc/hylodoc/internal/ast/area"
+	"github.com/hyloblog/hyloblog-ssg/internal/ast/area"
 )
 
 var serveCmd = &cobra.Command{

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document, the "Policy," outlines the Hylodoc project's (the "Project")
+This document, the "Policy," outlines the Hyloblog project's (the "Project")
 policy for the use of our trademarks. While our software is available under a
 free and open source software license, the copyright license does not include an
 implied right or license to use our trademark.
@@ -49,12 +49,12 @@ This Policy covers:
 
     | Mark	| Common descriptive name for the goods or services	|
     |-----------|-------------------------------------------------------|
-    | HYLODOC	| software platform					|
-    | HYLODOC	| software tool						|
+    | HYLOBLOG	| software platform					|
+    | HYLOBLOG	| software tool						|
 
 2. Our logos (the "Logos"):
 
-    ![Hylodoc logo](logo.svg)
+    ![Hyloblog logo](logo.svg)
 
 2. And the unique visual styling of our website and packaging (the "Trade Dress").
 
@@ -84,14 +84,14 @@ getting and from whom. The law reflects this requirement in two major ways
 described in more detail [below](#trademark-law): it prohibits creating a
 ["likelihood of confusion"](#confusion) but allows for
 ["nominative use."](#nominative) For example, you cannot say you are
-distributing the Hylodoc software when you're distributing a modified version of
+distributing the Hyloblog software when you're distributing a modified version of
 it, because people would be confused when they are not getting the same features
 and functionality they would get if they downloaded the software directly from
 us. You also cannot use our logo on your website in a way that suggests that
 your website is an official website or that we endorse your website. You can,
-though, say you like the Hylodoc software, that you participate in the Hylodoc
-community, that you are providing an unmodified version of the Hylodoc software,
-or that you wrote a book describing how to use the Hylodoc software.
+though, say you like the Hyloblog software, that you participate in the Hyloblog
+community, that you are providing an unmodified version of the Hyloblog software,
+or that you wrote a book describing how to use the Hyloblog software.
 
 This fundamental requirement, that it is always clear to people what they are
 getting and from whom, is reflected throughout this Policy. It should also serve
@@ -113,8 +113,8 @@ Marks or any phonetic equivalent, foreign language equivalent, takeoff, or
 abbreviation for a similar or compatible product or service. We would consider
 the following too similar to one of our Marks:
 
-- Hylodocly
-- Hylodocuments
+- Hyloblogly
+- Hylobloguments
 - Xylodoc
 
 You agree that you will not acquire any rights in the Marks and that any
@@ -142,23 +142,23 @@ packaging on our <<Brand Standards>> page.-->
 You may use the Word Marks, but not the Logos, to truthfully describe the
 relationship between your software and ours. Our Mark should be used after a
 verb or preposition that describes the relationship between your software and
-ours. So you may say, for example, "Bob's software for the Hylodoc platform"
-but may not say "Bob's Hylodoc software." Some other examples that may work
+ours. So you may say, for example, "Bob's software for the Hyloblog platform"
+but may not say "Bob's Hyloblog software." Some other examples that may work
 for you are:
 
-- [Your software] works with Hylodoc software
+- [Your software] works with Hyloblog software
 
-- [Your software] uses Hylodoc software
+- [Your software] uses Hyloblog software
 
-- [Your software] is compatible with Hylodoc software
+- [Your software] is compatible with Hyloblog software
 
-- [Your software] is powered by Hylodoc software
+- [Your software] is powered by Hyloblog software
 
-- [Your software] runs on Hylodoc software
+- [Your software] runs on Hyloblog software
 
-- [Your software] for use with Hylodoc software
+- [Your software] for use with Hyloblog software
 
-- [Your software] for Hylodoc software.
+- [Your software] for Hyloblog software.
 
 ### Uses we consider infringing without seeking further permission from us
 
@@ -227,8 +227,8 @@ Also, if you are using our Marks in a way described in the sections "Uses for
 which we are granting a license," please put following notice at the foot of the
 page where you have used the Mark (or, if in a book, on the credits page), on
 any packaging or labeling, and on advertising or marketing materials:
-"Hylodoc is trademark of the Hylodoc Project. Used with permission from the
-Hylodoc Project."
+"Hyloblog is trademark of the Hyloblog Project. Used with permission from the
+Hyloblog Project."
 
 ### What to do when you see abuse
 
@@ -240,7 +240,7 @@ described [below](#further) so that we can investigate it further.
 
 If you have any questions about this Policy, would like to speak with us about
 the use of our Marks in ways not described in the Policy, or see any abuse of
-our Marks, please email us at [tm@hylodoc.com](mailto:tm@hylodoc.com).
+our Marks, please email us at [tm@hyloblog.com](mailto:tm@hyloblog.com).
 
 ## General considerations about trademarks and their use
 
@@ -307,51 +307,51 @@ them for our Marks as well as anyone else's.
 
 ##### Always distinguish trademarks from surrounding text with at least initial capital letters or in all capital letters.
 
-- Unacceptable: hylodoc
+- Unacceptable: hyloblog
 
-- Acceptable: Hylodoc, HYLODOC
+- Acceptable: Hyloblog, HYLOBLOG
 
 ##### Always use trademarks in their exact form with the correct spelling, neither abbreviated, hyphenated, or combined with any other word or words.
 
-- Unacceptable: hYlOdOc
+- Unacceptable: high-low-blog
 
-- Acceptable: Hylodoc
+- Acceptable: Hyloblog
 
 ##### Don't pluralize a trademark.
 
-- Unacceptable: I have seventeen Hylodocs running in my lab.
+- Unacceptable: I have seventeen Hyloblogs running in my lab.
 
-- Acceptable: I have seventeen Hylodoc systems running in my lab.
+- Acceptable: I have seventeen Hyloblog systems running in my lab.
 
 ##### Don't use "a" or "the" to refer to an instance of the trademark.
 
-- Unacceptable: I put a Hylodoc on my mom's computer.
+- Unacceptable: I put a Hyloblog on my mom's computer.
 
-- Acceptable: I put a Hylodoc system on my mom's computer.
+- Acceptable: I put a Hyloblog system on my mom's computer.
 
 ##### Always use a trademark as an adjective modifying a noun. You can see the nouns we prefer under "Our trademarks."
 
-- Unacceptable: This is a Hylodoc. Anyone can install it.
+- Unacceptable: This is a Hyloblog. Anyone can install it.
 
-- Acceptable: This is a Hylodoc application. Anyone can install it.
+- Acceptable: This is a Hyloblog application. Anyone can install it.
 
 ##### Don't use a trademark as a verb. Trademarks are products or services, never actions.
 
-- Unacceptable: I Hylodocified my computer today!
+- Unacceptable: I Hyloblogified my computer today!
 
-- Acceptable: I installed Hylodoc software on my computer today!
+- Acceptable: I installed Hyloblog software on my computer today!
 
 ##### Don't use a trademark as a possessive. Instead, the following noun should be used in possessive form or the sentence reworded so there is no possessive.
 
-- Unacceptable: Hylodoc's desktop interface is very clean.
+- Unacceptable: Hyloblog's desktop interface is very clean.
 
-- Acceptable: The Hylodoc desktop's interface is very clean.
+- Acceptable: The Hyloblog desktop's interface is very clean.
 
 ##### Don't translate a trademark into another language.
 
-- Unacceptable: Quiero instalar el Hylodoco en mi sistema.
+- Unacceptable: Quiero instalar el Hyloblogo en mi sistema.
 
-- Acceptable: Quiero instalar Hylodoc en mi sistema.
+- Acceptable: Quiero instalar Hyloblog en mi sistema.
 
 #### Use of Logos
 
